@@ -57,6 +57,4 @@ If someone is new to the product, this order works best:
 ## Notes
 
 - The mobile app is currently the main product surface.
-- The web app exists conceptually but is still early.
-- Some product areas are fully modeled in the backend before they are fully expressed in the current mobile app.
 - Where the current product leaves a decision open, that is called out in the final document rather than guessed at.
